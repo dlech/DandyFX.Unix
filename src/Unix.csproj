@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <Version>0.1.0</Version>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <GenerateDocumentationFile>true</GenerateDocumentationFile>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <PackageId>DandyFX.Unix</PackageId>
+    <Title>Unix-specific platform library</Title>
+    <Authors>dlech</Authors>
+    <Description>Managed wrappers for low-level unixy things, like system calls.</Description>
+    <Copyright>2017 David Lechner</Copyright>
+    <PackageProjectUrl>https://github.com/dlech/DandyFX.Unix</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/dlech/DandyFX.Unix.git</RepositoryUrl>
+  </PropertyGroup>
+
+</Project>
